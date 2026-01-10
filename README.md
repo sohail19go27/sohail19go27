@@ -19,8 +19,12 @@ Hi! I’m Sohail Ahmad, a Software Development Engineer (SDE) passionate about b
 ![](https://nirzak-streak-stats.vercel.app/?user=sohail19go27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohail19go27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sohail19go27&theme=radical)
+## 🏆 GitHub Highlights
+![Followers](https://img.shields.io/github/followers/sohail19go27?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/sohail19go27?style=for-the-badge)
+![Repos](https://img.shields.io/github/repos/sohail19go27?style=for-the-badge)
+![Commits](https://img.shields.io/github/commit-activity/m/sohail19go27?style=for-the-badge)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
