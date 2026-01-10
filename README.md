@@ -20,7 +20,7 @@ Hi! I’m Sohail Ahmad, a Software Development Engineer (SDE) passionate about b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohail19go27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sohail19go27&theme=radical&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sohail19go27&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
