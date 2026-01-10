@@ -21,9 +21,10 @@ Hi! I’m Sohail Ahmad, a Software Development Engineer (SDE) passionate about b
 
 ## 🏆 GitHub Highlights
 ![Followers](https://img.shields.io/github/followers/sohail19go27?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/sohail19go27?style=for-the-badge)
 ![Repos](https://img.shields.io/github/repo-count/sohail19go27?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/sohail19go27?style=for-the-badge)
 ![Commits](https://img.shields.io/github/commit-activity/m/sohail19go27?style=for-the-badge)
+
 
 
 ### ✍️ Random Dev Quote
