@@ -25,21 +25,6 @@ Hi! I’m Sohail Ahmad, a Software Development Engineer (SDE) passionate about b
 ![Stars](https://img.shields.io/github/stars/sohail19go27?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/sohail19go27/my-portfolio?style=for-the-badge)
 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sohail19go27&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sohail19go27&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
