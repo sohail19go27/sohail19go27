@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I’m Sohail Ahmad, A Software Development Enthusiast passionate about building scalable backend systems, secure APIs, and production-ready full-stack applications.<br>I enjoy designing systems that are performant, reliable, and cleanly architected—from database design and caching layers to UI dashboards and automation tools.<br><br> 
-## 🚀 What I Do:
+## 🚀 What I Do :
 Backend Development: Node.js,Laravel, Express.js, REST APIs, JWT/OAuth, WebSockets<br>Frontend: React.js, Next.js, TypeScript, Clean UI/UX<br>Databases: MySQL, MongoDB, Indexing & Query Optimization<br>DevOps: Docker, GitHub Actions (CI/CD), Linux, Git<br>System Design: Microservices, RBAC, caching, API rate limiting, performance tuning<br>AI/NLP Integration: AI tools,Python-based sentiment & text-processing models<br><br>
 
 ## 🧠 Interests
