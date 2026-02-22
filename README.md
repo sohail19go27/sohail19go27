@@ -10,7 +10,7 @@ Love solving real world problems using Software Technologies<br>Scalable System 
 Built MindShield, a MERN + Python and NLP based digital discipline platform with real-time dashboards.<br>Delivered 35% faster backend performance via indexing, normalization & caching.<br>Developed booking systems supporting 500+ real-time WebSocket events per day.<br>Implemented secure auth flows, RBAC, and rate-limited APIs across multiple projects.<br>Active in competitive programming (200+ LeetCode problems) and tech events .<br><br>
 
 ## 🏆 Certifications & Achievements
-Smart India Hackathon 2025 (Selected)<br>NPTEL Python (Elite + Silver)<br>Cybersecurity Competition (2nd prize)<br><br>
+Smart India Hackathon 2025 (Selected)<br>NPTEL Python (Elite + Silver)<br>Cybersecurity Competition(2nd prize)<br><br>
 
 ## 📫 Let’s Connect
 Email: sohail19006363@gmail.com<br>LinkedIn: (https://www.linkedin.com/in/sohail-ahmad-68085b276/)<br>Portfolio: (https://my-portfolio-ruddy-iota-17.vercel.app/)
