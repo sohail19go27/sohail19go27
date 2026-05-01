@@ -7,7 +7,7 @@ Backend Development : Node.js,Laravel, Express.js,Spring Boot, REST APIs, JWT/OA
 Love solving real world problems using Software Technologies.<br>Scalable System Architecture.<br>NLP/ML for productivity tools.<br>Open-source contributions.<br>Solving coding Problems.<br>Teaching and mentoring juniors and all.<br><br>
 
 ## 🔥 Highlights:
-Built MindShield, a MERN + Python and NLP based digital discipline platform with real-time dashboards.<br>Delivered 35% faster backend performance via indexing, normalization & caching.<br>Developed booking systems supporting 500+ real-time WebSocket events per day.<br>Implemented secure auth flows, RBAC, and rate-limited APIs across multiple projects.<br>Active in competitive programming (200+ LeetCode problems) and tech events .<br><br>
+Built MindShield, A MERN + Python and NLP based digital discipline platform with real-time dashboards.<br>Delivered 35% faster backend performance via indexing, normalization & caching.<br>Developed booking systems supporting 500+ real-time WebSocket events per day.<br>Implemented secure auth flows, RBAC, and rate-limited APIs across multiple projects.<br>Active in competitive programming (200+ LeetCode problems) and tech events .<br><br>
 
 ## 🏆 Certifications & Achievements
 Smart India Hackathon 2025 Participated(Selected)<br>NPTEL Python (Elite + Silver)<br>Cybersecurity Competition(2nd prize)<br>Leetcode 5-star coder<br><br>
