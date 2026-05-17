@@ -4,7 +4,7 @@ Hi all!! I’m Sohail Ahmad. A Software Engineer and Innovator passionate about 
 Backend Development : Node.js,Laravel, Express.js, Spring Boot, REST APIs, JWT/OAuth, WebSockets.<br>Frontend : React.js, Next.js, TypeScript, Clean UI/UX.<br>Databases : MySQL, MongoDB, SQL, Indexing & Query Optimization.<br>DevOps: Docker, GitHub Actions(CI/CD), Linux, Gits.<br>System Design : Microservices, RBAC, caching, API rate limiting, performance tuning.<br>AI/NLP Integration : AI tools, Python-based sentiment & Text-processing model.<br><br>
 
 ## 🧠 Interests
-Love solving real world problems using Software Technologies.<br>Scale System Architecture.<br>NLP/ML for productivity tools.<br>Open-source contributions.<br>Solving coding Problems.<br>Teaching and mentoring juniors and all.<br><br>
+Love solving real world problems using Software Technologies.<br>Scale System Architecture.<br>NLP/ML for productivity tools.<br>Open-source contributer.<br>Solving coding Problems.<br>Teaching and mentoring juniors and all.<br><br>
 
 ## 🔥 Highlights:
 Built MindShield, A MERN + Python and NLP based digital discipline platform with real-time dashboards.<br>Delivered 35% faster backend performance via indexing, normalization & caching.<br>Developed booking systems supporting 500+ real-time WebSocket events per day.<br>Implemented secure auth flows, RBAC, and rate-limited APIs across multiple projects.<br>Active in competitive programming (300+ LeetCode problems with 5-star ratings) and tech events .<br><br>
