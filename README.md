@@ -26,7 +26,7 @@ Email: sohail19006363@gmail.com<br>LinkedIn: (https://www.linkedin.com/in/sohail
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sohail19go27&theme=radical
 
-## 🏆 GitHub Highlights
+## 🏆 GitHub Highlights:
 ![Followers](https://img.shields.io/github/followers/sohail19go27?style=for-the-badge)
 ![Repos](https://img.shields.io/github/repo-count/sohail19go27?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/sohail19go27?style=for-the-badge)
