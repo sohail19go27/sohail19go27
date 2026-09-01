@@ -1,6 +1,6 @@
 # 💫✍️About Me:
-Hi all!! Myself Sohail Ahmad. I am Software Engineer and Innovator who is passionate about building scalable backend systems, secure APIs, and AI/ML production ready full-stack applications etc.<br>I enjoy in designing systems that are performant, reliable, and cleanly architected from database design and caching layers to UI dashboards and automation tools. I also has hands on experience in Data analytics Projects.Have pulled many merged requests.<br><br> 
-## 🚀 What I Do :
+Hi all!! Myself Sohail Ahmad. I am Software Engineer and Innovator who is passionate about building scalable Full Stack Application systems, secure APIs, and AI/ML production ready full-stack applications etc.<br>I enjoy in designing systems that are performant, reliable, and cleanly architected from database design and caching layers to UI dashboards and automation tools. I also has hands on experience in Data analytics Projects.Have pulled many merged requests.<br><br> 
+## 🚀 What I Dos :
 Backend Development : Node.js, Express.js, Spring Boot, REST APIs, JWT/OAuth, WebSockets.<br>Frontend : React.js, Next.js, TypeScript, Clean UI/UX.<br>Databases : MySQL, MongoDB, SQL, Indexing & Query Optimization.<br>DevOps: Docker, GitHub Actions(CI/CD), Linux, Gits.<br>System Design : Microservices, RBAC, caching, API rate limiting, Performance Tuning.<br>AI/NLP Integration : AI tools, Python-based sentiment & Text-processing models.<br><br>
 
 ## 🧠 Interests
